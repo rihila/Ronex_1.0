@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Apptheme" parent="ThemeOverlay.AppCompat.Dark.ActionBar">
+        <item name="android:fontFamily">@font/comfortaabold</item>
+
+    </style>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFCFC</color>
+    <color name="primary">#B9B0B0</color>
+</resources>
